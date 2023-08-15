@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("This is 100 x engineers task");
+    printf("This is 100x engineers task");
     return 0;
 }
